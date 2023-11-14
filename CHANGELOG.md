@@ -1,5 +1,5 @@
 ## Dimelo iOS SDK master ##
-Dimeloff
+Dimeloffrtgrt
 ## Dimelo iOS SDK 2.6.3 (October 5th, 2023) ##
 - Feature: add support for message deletion. RD-27116
 - Minor: bump `Minimum Deployment Target` to **iOS 11.0** (was **iOS 8.0**). RD-27130
