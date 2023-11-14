@@ -1,0 +1,47 @@
+/* 
+  DimeloLocalizable.strings
+  Dimelo
+
+  Created by Khelif Ghassen on 22/03/2017.
+  Copyright © 2017 Dimelo. All rights reserved.
+*/
+"dimeloChatTitle" = "Chat";
+"dimeloSendButtonTitle" = "Envoyer";
+"rcSendButtonAccessibilityLabel" = "Envoyer";
+"dimeloChoosePhotoButtonTitle" = "Bibliothèque Photo et Vidéo";
+"rcChooseDocumentButtonTitle" = "Document";
+"dimeloLocationButtonTitle" = "Localisation";
+"dimeloCancelButtonTitle" ="Annuler";
+"dimeloLoadMoreMessagesButtonTitle" = "Voir les messages précédents";
+"dimeloTakePhotoButtonTitle" = "Caméra";
+"dimeloFailedLocatePosition" = "Impossible de localiser votre position";
+"dimeloSettings" = "Paramètres";
+"dimeloAuthorizeLocation" = "Allez dans l'application Paramètres et autorisez %@ à accéder à votre position";
+"dimeloSearchAddress" = "Rechercher une adresse";
+"dimeloWaitConnection" = "Attente de connexion";
+"dimeloError" = "Erreur";
+"dimeloFailedSendMessage" = "Impossible d'envoyer le message";
+"dimeloConnectionOffline" = "Vous n'êtes pas connecté à internet";
+"dimeloFailedOpenCamera" = "L'application n'a pas la permission d'accèder à l'appareil photo";
+"dimeloAuthorizeCamera" = "Allez dans l'application Paramètres et autorisez %@ à accéder à votre appareil photo";
+"dimeloFailedOpenPhotoGallery" = "L'application n'a pas la permission d'accéder à la galerie photo";
+"dimeloAuthorizePhotoGallery" = "Allez dans l'application Paramètres et autorisez %@ à accéder à votre galerie photo";
+"dimeloNotificationDirectReplyButtonTitle" = "Envoyer";
+"dimeloNotificationDirectReplyInputTextPlaceholder" = "";
+"dimeloAttachmentSizeLabelMegaByteUnit" = "Mo";
+"dimeloAttachmentSizeLabelKiloByteUnit" = "Ko";
+"rcHintInputText" = "Envoyer un message...";
+"rcToday" = "Aujourd'hui à";
+"rcRetryButtonTitle" = "Réessayer";
+"rcThreadsTitle" = "Discussions";
+"rcYou" = "Vous : ";
+"rcWaitingForAgentMessage" = "En attente d'un agent";
+"rcBackToAllChats" = "Voir toutes les discussions";
+"rcClosedThreadMessage" = "La conversation est terminée";
+"rcVideoCallRequestedStatusMessage" = "Vous serez bientôt connecté à un appel vidéo";
+"rcDeleteMessageButtonTitle" = "Supprimer pour tout le monde";
+"rcDeleteMessageConfirmationDialogTitle" = "Supprimer pour tout le monde";
+"rcDeleteMessageConfirmationDialogDescription" = "Êtes-vous sûr de vouloir supprimer ce message pour tout le monde ?";
+"rcDeleteMessageConfirmationDialogDeleteButtonTitle" = "Supprimer";
+"rcCopyMessageButtonTitle" = "Copier";
+"rcDeletedMessageReplacementText" = "Vous avez supprimé ce message pour tout le monde.";

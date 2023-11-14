@@ -1,0 +1,47 @@
+/*
+  DimeloLocalizable.strings
+  Dimelo
+
+  Created by Khelif Ghassen on 22/03/2017.
+  Copyright © 2017 Dimelo. All rights reserved.
+*/
+"dimeloChatTitle" = "Chat";
+"dimeloSendButtonTitle" = "Senden";
+"rcSendButtonAccessibilityLabel" = "Senden";
+"dimeloChoosePhotoButtonTitle" = "Foto- und Videomediathek";
+"rcChooseDocumentButtonTitle" = "Dokument";
+"dimeloLocationButtonTitle" = "Standort";
+"dimeloCancelButtonTitle" ="Abbrechen";
+"dimeloLoadMoreMessagesButtonTitle" = "Vorherige Beiträge anzeigen";
+"dimeloTakePhotoButtonTitle" = "Kamera";
+"dimeloFailedLocatePosition" = "Ihre Position konnte nicht gefunden werden";
+"dimeloSettings" = "Einstellungen";
+"dimeloAuthorizeLocation" = "Bitte rufen Sie \"Einstellungen\" auf und autorisieren %@ Sie den Zugriff auf Ihren Standort";
+"dimeloSearchAddress" = "Adresse suchen";
+"dimeloWaitConnection" = "Auf Verbindung warten";
+"dimeloError" = "Fehler";
+"dimeloFailedSendMessage" = "Die Nachricht konnte nicht gesendet werden";
+"dimeloConnectionOffline" = "Sie sind nicht mit dem Internet verbunden";
+"dimeloFailedOpenCamera" = "Die Kamera konnte nicht geöffnet werden";
+"dimeloAuthorizeCamera" = "Öffnen Sie \"Einstellungen\" und erlauben %@, auf Ihre Kamera zugreifen zu können";
+"dimeloFailedOpenPhotoGallery" = "Die Fotogalerie konnte nicht geöffnet werden";
+"dimeloAuthorizePhotoGallery" = "Öffnen Sie \"Einstellungen\" und erlauben %@, auf Ihre Fotogalerie zu können";
+"dimeloNotificationDirectReplyButtonTitle" = "Senden";
+"dimeloNotificationDirectReplyInputTextPlaceholder" = "";
+"dimeloAttachmentSizeLabelMegaByteUnit" = "MB";
+"dimeloAttachmentSizeLabelKiloByteUnit" = "KB";
+"rcHintInputText" = "Eine Nachricht schicken...";
+"rcToday" = "Heute";
+"rcRetryButtonTitle" = "Wiederholen";
+"rcThreadsTitle" = "Chats";
+"rcYou" = "Sie: ";
+"rcWaitingForAgentMessage" = "Warten auf einen Agenten";
+"rcBackToAllChats" = "Alle Chats anzeigen";
+"rcClosedThreadMessage" = "Die Konversation ist beendet";
+"rcVideoCallRequestedStatusMessage" = "You will be connected to a video call shortly";
+"rcDeleteMessageButtonTitle" = "Für alle löschen";
+"rcDeleteMessageConfirmationDialogTitle" = "Für alle löschen";
+"rcDeleteMessageConfirmationDialogDescription" = "Sind Sie sicher, dass Sie diese Nachricht für alle löschen möchten ?";
+"rcDeleteMessageConfirmationDialogDeleteButtonTitle" = "Löschen";
+"rcCopyMessageButtonTitle" = "Kopieren";
+"rcDeletedMessageReplacementText" = "Sie haben diese Nachricht für alle gelöscht.";
